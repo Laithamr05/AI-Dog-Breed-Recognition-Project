@@ -13,7 +13,6 @@ It was developed as part of an **Image Classification Udacity Nanodegree project
 ├── adjust_results4_isadog.py        # Adds 'is-a-dog' flags to results
 ├── calculates_results_stats.py      # Calculates summary statistics
 ├── check_images.py                  # Main program to run classification
-├── check_images.txt                 # Example Q&A on uploaded image classification
 ├── classify_images.py               # Uses chosen CNN model to classify images
 ├── classifier.py                    # Wrapper for pretrained PyTorch models
 ├── dognames.txt                     # Text file of valid dog breed names
