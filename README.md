@@ -2,8 +2,6 @@
 
 This project uses **pre-trained Convolutional Neural Networks (CNNs)** (ResNet, AlexNet, VGG16) from **PyTorch** to classify pet images and identify whether they are dogs (and if so, their breed).  
 
-It was developed as part of an **Image Classification Udacity Nanodegree project**, and it compares model performance on different datasets.
-
 ---
 
 ## 📂 Project Structure  
