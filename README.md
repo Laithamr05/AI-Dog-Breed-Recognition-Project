@@ -93,8 +93,3 @@ For each model, you’ll get:
 - % correctly classified dogs, breeds, and not-dogs  
 - Optionally: list of misclassified dogs/breeds  
 
----
-
-## 🧑‍💻 Authors  
-- Project template: Udacity AIPND  
-- Modifications: *Your Name*  
